@@ -1,0 +1,166 @@
+{
+  "imputation": [
+    {
+      "method": "global median",
+      "gdp_per_capita_median": 6018.39052977191,
+      "population_median": 16346101.0,
+      "rows_imputed_gdp": 109,
+      "rows_imputed_population": 23
+    },
+    {
+      "method": "Olympic year-season median",
+      "gdp_per_capita_median": 5321.56443293006,
+      "population_median": 16061999.0,
+      "rows_imputed_gdp": 109,
+      "rows_imputed_population": 23
+    }
+  ],
+  "outliers": [
+    {
+      "method": "IQR",
+      "flagged_rows": 77
+    },
+    {
+      "method": "Modified z-score",
+      "flagged_rows": 111
+    },
+    {
+      "method": "Both",
+      "flagged_rows": 77
+    }
+  ],
+  "pca": [
+    {
+      "component": "PC1",
+      "explained_variance_ratio": 0.28023366271959693,
+      "cumulative_explained_variance": 0.28023366271959693
+    },
+    {
+      "component": "PC2",
+      "explained_variance_ratio": 0.2269317414244178,
+      "cumulative_explained_variance": 0.5071654041440148
+    },
+    {
+      "component": "PC3",
+      "explained_variance_ratio": 0.18681501747229715,
+      "cumulative_explained_variance": 0.6939804216163119
+    },
+    {
+      "component": "PC4",
+      "explained_variance_ratio": 0.17750875765770555,
+      "cumulative_explained_variance": 0.8714891792740175
+    },
+    {
+      "component": "PC5",
+      "explained_variance_ratio": 0.1285108207259825,
+      "cumulative_explained_variance": 1.0
+    }
+  ],
+  "top_overperformers": [
+    {
+      "NOC": "AFG",
+      "Year": 2008,
+      "Season": "Summer",
+      "medals": 1,
+      "overperformance_residual": -0.6268773398531641
+    },
+    {
+      "NOC": "ALG",
+      "Year": 2000,
+      "Season": "Summer",
+      "medals": 5,
+      "overperformance_residual": 0.04115740543533719
+    },
+    {
+      "NOC": "ARG",
+      "Year": 2004,
+      "Season": "Summer",
+      "medals": 6,
+      "overperformance_residual": -0.08694346026532851
+    },
+    {
+      "NOC": "ARM",
+      "Year": 2008,
+      "Season": "Summer",
+      "medals": 6,
+      "overperformance_residual": 0.6181606022453097
+    },
+    {
+      "NOC": "AUS",
+      "Year": 2000,
+      "Season": "Summer",
+      "medals": 58,
+      "overperformance_residual": 1.8181446437118836
+    },
+    {
+      "NOC": "AUT",
+      "Year": 1964,
+      "Season": "Winter",
+      "medals": 12,
+      "overperformance_residual": 1.2858405722133264
+    },
+    {
+      "NOC": "AZE",
+      "Year": 2016,
+      "Season": "Summer",
+      "medals": 18,
+      "overperformance_residual": 1.3027051531065552
+    },
+    {
+      "NOC": "BAH",
+      "Year": 1964,
+      "Season": "Summer",
+      "medals": 1,
+      "overperformance_residual": 0.36474635804303773
+    },
+    {
+      "NOC": "BAR",
+      "Year": 2000,
+      "Season": "Summer",
+      "medals": 1,
+      "overperformance_residual": -0.2627498669134608
+    },
+    {
+      "NOC": "BDI",
+      "Year": 1996,
+      "Season": "Summer",
+      "medals": 1,
+      "overperformance_residual": 0.014183460142029203
+    },
+    {
+      "NOC": "BEL",
+      "Year": 1960,
+      "Season": "Summer",
+      "medals": 4,
+      "overperformance_residual": 0.26420761338280396
+    },
+    {
+      "NOC": "BER",
+      "Year": 1976,
+      "Season": "Summer",
+      "medals": 1,
+      "overperformance_residual": 0.28336969232670234
+    },
+    {
+      "NOC": "BLR",
+      "Year": 2000,
+      "Season": "Summer",
+      "medals": 17,
+      "overperformance_residual": 1.5248464434249678
+    },
+    {
+      "NOC": "BOT",
+      "Year": 2012,
+      "Season": "Summer",
+      "medals": 1,
+      "overperformance_residual": -0.6743222624113036
+    },
+    {
+      "NOC": "BRA",
+      "Year": 2016,
+      "Season": "Summer",
+      "medals": 19,
+      "overperformance_residual": 0.33476259246405826
+    }
+  ]
+}

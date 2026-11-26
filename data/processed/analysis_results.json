@@ -1,0 +1,39 @@
+{
+  "sample": {
+    "country_edition_rows": 1095,
+    "years": [
+      1960,
+      2016
+    ],
+    "nocs_with_iso3": 224,
+    "unmatched_nocs": 6,
+    "athlete_medal_rows_before_dedup": 28400,
+    "team_and_individual_medal_rows_after_dedup": 13616
+  },
+  "h1_gdp_medals_per_million": {
+    "spearman_rho": 0.3700747020858657,
+    "p_value": 7.1445326252396285e-37
+  },
+  "h2_population_total_medals": {
+    "spearman_rho": 0.32671384741039267,
+    "p_value": 1.1857831326408412e-28
+  },
+  "h3_host_advantage": {
+    "paired_countries": 17,
+    "median_host_rate": 0.4734282642090956,
+    "median_typical_nonhost_rate": 0.2270930610022335,
+    "wilcoxon_stat": 144.0,
+    "p_value": 0.00025177001953125
+  },
+  "h4_income_quartiles": {
+    "kruskal_stat": 138.8891318924721,
+    "p_value": 6.561093535643482e-30
+  },
+  "log_linear_model": {
+    "n": 1095,
+    "intercept": -4.751761522837359,
+    "log_gdp_beta": 0.25389074225966485,
+    "log_population_beta": 0.266897501706132,
+    "r_squared": 0.29006583920348317
+  }
+}

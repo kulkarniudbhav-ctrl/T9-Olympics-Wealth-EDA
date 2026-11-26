@@ -1,0 +1,6 @@
+step,rows,detail
+"Athlete medal rows, 1960-2016",28400,Athlete-level medal rows before team-event deduplication
+Distinct medals,13616,Unique Games + NOC + Event + Medal
+Country-edition medal rows,1204,Aggregated NOC x Games
+NOC-to-ISO3 matched,1191,13 rows lack a mappable NOC
+Complete WDI analytical sample,1095,Non-missing GDP per capita and population

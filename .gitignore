@@ -1,0 +1,10 @@
+# Reproducibly downloaded raw data
+data/raw/*.csv
+data/raw/*.zip
+
+# Python and Jupyter runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+tmp/
+.DS_Store

@@ -1,0 +1,231 @@
+NOC,region,notes,norm_region,iso3,mapping_source
+AFG,Afghanistan,,afghanistan,AFG,WDI country-name match
+AHO,Curacao,Netherlands Antilles,curacao,CUW,WDI country-name match
+ALB,Albania,,albania,ALB,WDI country-name match
+ALG,Algeria,,algeria,DZA,WDI country-name match
+AND,Andorra,,andorra,AND,WDI country-name match
+ANG,Angola,,angola,AGO,WDI country-name match
+ANT,Antigua,Antigua and Barbuda,antigua,ATG,WDI country-name match
+ANZ,Australia,Australasia,australia,AUS,WDI country-name match
+ARG,Argentina,,argentina,ARG,WDI country-name match
+ARM,Armenia,,armenia,ARM,WDI country-name match
+ARU,Aruba,,aruba,ABW,WDI country-name match
+ASA,American Samoa,,americansamoa,ASM,WDI country-name match
+AUS,Australia,,australia,AUS,WDI country-name match
+AUT,Austria,,austria,AUT,WDI country-name match
+AZE,Azerbaijan,,azerbaijan,AZE,WDI country-name match
+BAH,Bahamas,,bahamas,BHS,documented alias
+BAN,Bangladesh,,bangladesh,BGD,WDI country-name match
+BAR,Barbados,,barbados,BRB,WDI country-name match
+BDI,Burundi,,burundi,BDI,WDI country-name match
+BEL,Belgium,,belgium,BEL,WDI country-name match
+BEN,Benin,,benin,BEN,WDI country-name match
+BER,Bermuda,,bermuda,BMU,WDI country-name match
+BHU,Bhutan,,bhutan,BTN,WDI country-name match
+BIH,Bosnia and Herzegovina,,bosniaandherzegovina,BIH,WDI country-name match
+BIZ,Belize,,belize,BLZ,WDI country-name match
+BLR,Belarus,,belarus,BLR,WDI country-name match
+BOH,Czech Republic,Bohemia,czechrepublic,CZE,documented alias
+BOL,Boliva,,boliva,BOL,WDI country-name match
+BOT,Botswana,,botswana,BWA,WDI country-name match
+BRA,Brazil,,brazil,BRA,WDI country-name match
+BRN,Bahrain,,bahrain,BHR,WDI country-name match
+BRU,Brunei,,brunei,BRN,documented alias
+BUL,Bulgaria,,bulgaria,BGR,WDI country-name match
+BUR,Burkina Faso,,burkinafaso,BFA,WDI country-name match
+CAF,Central African Republic,,centralafricanrepublic,CAF,WDI country-name match
+CAM,Cambodia,,cambodia,KHM,WDI country-name match
+CAN,Canada,,canada,CAN,WDI country-name match
+CAY,Cayman Islands,,caymanislands,CYM,WDI country-name match
+CGO,Republic of Congo,,republicofcongo,COG,WDI country-name match
+CHA,Chad,,chad,TCD,WDI country-name match
+CHI,Chile,,chile,CHL,WDI country-name match
+CHN,China,,china,CHN,WDI country-name match
+CIV,Ivory Coast,,ivorycoast,CIV,documented alias
+CMR,Cameroon,,cameroon,CMR,WDI country-name match
+COD,Democratic Republic of the Congo,,democraticrepublicofthecongo,COD,documented alias
+COK,Cook Islands,,cookislands,,WDI country-name match
+COL,Colombia,,colombia,COL,WDI country-name match
+COM,Comoros,,comoros,COM,WDI country-name match
+CPV,Cape Verde,,capeverde,CPV,documented alias
+CRC,Costa Rica,,costarica,CRI,WDI country-name match
+CRO,Croatia,,croatia,HRV,WDI country-name match
+CRT,Greece,Crete,greece,GRC,WDI country-name match
+CUB,Cuba,,cuba,CUB,WDI country-name match
+CYP,Cyprus,,cyprus,CYP,WDI country-name match
+CZE,Czech Republic,,czechrepublic,CZE,documented alias
+DEN,Denmark,,denmark,DNK,WDI country-name match
+DJI,Djibouti,,djibouti,DJI,WDI country-name match
+DMA,Dominica,,dominica,DMA,WDI country-name match
+DOM,Dominican Republic,,dominicanrepublic,DOM,documented alias
+ECU,Ecuador,,ecuador,ECU,WDI country-name match
+EGY,Egypt,,egypt,EGY,WDI country-name match
+ERI,Eritrea,,eritrea,ERI,WDI country-name match
+ESA,El Salvador,,elsalvador,SLV,WDI country-name match
+ESP,Spain,,spain,ESP,WDI country-name match
+EST,Estonia,,estonia,EST,WDI country-name match
+ETH,Ethiopia,,ethiopia,ETH,WDI country-name match
+EUN,Russia,,russia,RUS,historical sensitivity mapping
+FIJ,Fiji,,fiji,FJI,WDI country-name match
+FIN,Finland,,finland,FIN,WDI country-name match
+FRA,France,,france,FRA,WDI country-name match
+FRG,Germany,,germany,DEU,historical sensitivity mapping
+FSM,Micronesia,,micronesia,FSM,documented alias
+GAB,Gabon,,gabon,GAB,WDI country-name match
+GAM,Gambia,,gambia,GMB,documented alias
+GBR,UK,,uk,GBR,WDI country-name match
+GBS,Guinea-Bissau,,guineabissau,GNB,WDI country-name match
+GDR,Germany,,germany,DEU,historical sensitivity mapping
+GEO,Georgia,,georgia,GEO,WDI country-name match
+GEQ,Equatorial Guinea,,equatorialguinea,GNQ,WDI country-name match
+GER,Germany,,germany,DEU,WDI country-name match
+GHA,Ghana,,ghana,GHA,WDI country-name match
+GRE,Greece,,greece,GRC,WDI country-name match
+GRN,Grenada,,grenada,GRD,WDI country-name match
+GUA,Guatemala,,guatemala,GTM,WDI country-name match
+GUI,Guinea,,guinea,GIN,WDI country-name match
+GUM,Guam,,guam,GUM,WDI country-name match
+GUY,Guyana,,guyana,GUY,WDI country-name match
+HAI,Haiti,,haiti,HTI,WDI country-name match
+HKG,China,Hong Kong,china,CHN,WDI country-name match
+HON,Honduras,,honduras,HND,WDI country-name match
+HUN,Hungary,,hungary,HUN,WDI country-name match
+INA,Indonesia,,indonesia,IDN,WDI country-name match
+IND,India,,india,IND,WDI country-name match
+IOA,Individual Olympic Athletes,Individual Olympic Athletes,individualolympicathletes,,WDI country-name match
+IRI,Iran,,iran,IRN,documented alias
+IRL,Ireland,,ireland,IRL,WDI country-name match
+IRQ,Iraq,,iraq,IRQ,WDI country-name match
+ISL,Iceland,,iceland,ISL,WDI country-name match
+ISR,Israel,,israel,ISR,WDI country-name match
+ISV,"Virgin Islands, US",Virgin Islands,virginislandsus,VIR,WDI country-name match
+ITA,Italy,,italy,ITA,WDI country-name match
+IVB,"Virgin Islands, British",,virginislandsbritish,VGB,WDI country-name match
+JAM,Jamaica,,jamaica,JAM,WDI country-name match
+JOR,Jordan,,jordan,JOR,WDI country-name match
+JPN,Japan,,japan,JPN,WDI country-name match
+KAZ,Kazakhstan,,kazakhstan,KAZ,WDI country-name match
+KEN,Kenya,,kenya,KEN,WDI country-name match
+KGZ,Kyrgyzstan,,kyrgyzstan,KGZ,documented alias
+KIR,Kiribati,,kiribati,KIR,WDI country-name match
+KOR,South Korea,,southkorea,KOR,documented alias
+KOS,Kosovo,,kosovo,XKX,documented alias
+KSA,Saudi Arabia,,saudiarabia,SAU,WDI country-name match
+KUW,Kuwait,,kuwait,KWT,WDI country-name match
+LAO,Laos,,laos,LAO,documented alias
+LAT,Latvia,,latvia,LVA,WDI country-name match
+LBA,Libya,,libya,LBY,WDI country-name match
+LBR,Liberia,,liberia,LBR,WDI country-name match
+LCA,Saint Lucia,,saintlucia,LCA,WDI country-name match
+LES,Lesotho,,lesotho,LSO,WDI country-name match
+LIB,Lebanon,,lebanon,LBN,WDI country-name match
+LIE,Liechtenstein,,liechtenstein,LIE,WDI country-name match
+LTU,Lithuania,,lithuania,LTU,WDI country-name match
+LUX,Luxembourg,,luxembourg,LUX,WDI country-name match
+MAD,Madagascar,,madagascar,MDG,WDI country-name match
+MAL,Malaysia,,malaysia,MYS,WDI country-name match
+MAR,Morocco,,morocco,MAR,WDI country-name match
+MAS,Malaysia,,malaysia,MYS,WDI country-name match
+MAW,Malawi,,malawi,MWI,WDI country-name match
+MDA,Moldova,,moldova,MDA,documented alias
+MDV,Maldives,,maldives,MDV,WDI country-name match
+MEX,Mexico,,mexico,MEX,WDI country-name match
+MGL,Mongolia,,mongolia,MNG,WDI country-name match
+MHL,Marshall Islands,,marshallislands,MHL,WDI country-name match
+MKD,Macedonia,,macedonia,MKD,documented alias
+MLI,Mali,,mali,MLI,WDI country-name match
+MLT,Malta,,malta,MLT,WDI country-name match
+MNE,Montenegro,,montenegro,MNE,WDI country-name match
+MON,Monaco,,monaco,MCO,WDI country-name match
+MOZ,Mozambique,,mozambique,MOZ,WDI country-name match
+MRI,Mauritius,,mauritius,MUS,WDI country-name match
+MTN,Mauritania,,mauritania,MRT,WDI country-name match
+MYA,Myanmar,,myanmar,MMR,WDI country-name match
+NAM,Namibia,,namibia,NAM,WDI country-name match
+NBO,Malaysia,North Borneo,malaysia,MYS,WDI country-name match
+NCA,Nicaragua,,nicaragua,NIC,WDI country-name match
+NED,Netherlands,,netherlands,NLD,WDI country-name match
+NEP,Nepal,,nepal,NPL,WDI country-name match
+NFL,Canada,Newfoundland,canada,CAN,WDI country-name match
+NGR,Nigeria,,nigeria,NGA,WDI country-name match
+NIG,Niger,,niger,NER,WDI country-name match
+NOR,Norway,,norway,NOR,WDI country-name match
+NRU,Nauru,,nauru,NRU,WDI country-name match
+NZL,New Zealand,,newzealand,NZL,WDI country-name match
+OMA,Oman,,oman,OMN,WDI country-name match
+PAK,Pakistan,,pakistan,PAK,WDI country-name match
+PAN,Panama,,panama,PAN,WDI country-name match
+PAR,Paraguay,,paraguay,PRY,WDI country-name match
+PER,Peru,,peru,PER,WDI country-name match
+PHI,Philippines,,philippines,PHL,WDI country-name match
+PLE,Palestine,,palestine,PSE,documented alias
+PLW,Palau,,palau,PLW,WDI country-name match
+PNG,Papua New Guinea,,papuanewguinea,PNG,WDI country-name match
+POL,Poland,,poland,POL,WDI country-name match
+POR,Portugal,,portugal,PRT,WDI country-name match
+PRK,North Korea,,northkorea,PRK,documented alias
+PUR,Puerto Rico,,puertorico,,WDI country-name match
+QAT,Qatar,,qatar,QAT,WDI country-name match
+RHO,Zimbabwe,,zimbabwe,ZWE,WDI country-name match
+ROT,,Refugee Olympic Team,nan,,WDI country-name match
+ROU,Romania,,romania,ROU,WDI country-name match
+RSA,South Africa,,southafrica,ZAF,WDI country-name match
+RUS,Russia,,russia,RUS,documented alias
+RWA,Rwanda,,rwanda,RWA,WDI country-name match
+SAA,Germany,,germany,DEU,WDI country-name match
+SAM,Samoa,,samoa,WSM,WDI country-name match
+SCG,Serbia,Serbia and Montenegro,serbia,SRB,historical sensitivity mapping
+SEN,Senegal,,senegal,SEN,WDI country-name match
+SEY,Seychelles,,seychelles,SYC,WDI country-name match
+SIN,Singapore,,singapore,SGP,WDI country-name match
+SKN,Saint Kitts,Turks and Caicos Islands,saintkitts,KNA,WDI country-name match
+SLE,Sierra Leone,,sierraleone,SLE,WDI country-name match
+SLO,Slovenia,,slovenia,SVN,WDI country-name match
+SMR,San Marino,,sanmarino,SMR,WDI country-name match
+SOL,Solomon Islands,,solomonislands,SLB,WDI country-name match
+SOM,Somalia,,somalia,SOM,WDI country-name match
+SRB,Serbia,,serbia,SRB,WDI country-name match
+SRI,Sri Lanka,,srilanka,LKA,WDI country-name match
+SSD,South Sudan,,southsudan,SSD,WDI country-name match
+STP,Sao Tome and Principe,,saotomeandprincipe,STP,WDI country-name match
+SUD,Sudan,,sudan,SDN,WDI country-name match
+SUI,Switzerland,,switzerland,CHE,WDI country-name match
+SUR,Suriname,,suriname,SUR,WDI country-name match
+SVK,Slovakia,,slovakia,SVK,documented alias
+SWE,Sweden,,sweden,SWE,WDI country-name match
+SWZ,Swaziland,,swaziland,SWZ,documented alias
+SYR,Syria,,syria,SYR,documented alias
+TAN,Tanzania,,tanzania,TZA,documented alias
+TCH,Czech Republic,,czechrepublic,CZE,historical sensitivity mapping
+TGA,Tonga,,tonga,TON,WDI country-name match
+THA,Thailand,,thailand,THA,WDI country-name match
+TJK,Tajikistan,,tajikistan,TJK,WDI country-name match
+TKM,Turkmenistan,,turkmenistan,TKM,WDI country-name match
+TLS,Timor-Leste,,timorleste,TLS,WDI country-name match
+TOG,Togo,,togo,TGO,WDI country-name match
+TPE,Taiwan,,taiwan,TWN,documented alias
+TTO,Trinidad,Trinidad and Tobago,trinidad,TTO,WDI country-name match
+TUN,Tunisia,,tunisia,TUN,WDI country-name match
+TUR,Turkey,,turkey,TUR,WDI country-name match
+TUV,,Tuvalu,nan,TUV,WDI country-name match
+UAE,United Arab Emirates,,unitedarabemirates,ARE,WDI country-name match
+UAR,Syria,United Arab Republic,syria,SYR,documented alias
+UGA,Uganda,,uganda,UGA,WDI country-name match
+UKR,Ukraine,,ukraine,UKR,WDI country-name match
+UNK,,Unknown,nan,,WDI country-name match
+URS,Russia,,russia,RUS,historical sensitivity mapping
+URU,Uruguay,,uruguay,URY,WDI country-name match
+USA,USA,,usa,USA,WDI country-name match
+UZB,Uzbekistan,,uzbekistan,UZB,WDI country-name match
+VAN,Vanuatu,,vanuatu,VUT,WDI country-name match
+VEN,Venezuela,,venezuela,VEN,documented alias
+VIE,Vietnam,,vietnam,VNM,documented alias
+VIN,Saint Vincent,,saintvincent,VCT,WDI country-name match
+VNM,Vietnam,,vietnam,VNM,documented alias
+WIF,Trinidad,West Indies Federation,trinidad,,WDI country-name match
+YAR,Yemen,North Yemen,yemen,YEM,WDI country-name match
+YEM,Yemen,,yemen,YEM,WDI country-name match
+YMD,Yemen,South Yemen,yemen,YEM,WDI country-name match
+YUG,Serbia,Yugoslavia,serbia,SRB,historical sensitivity mapping
+ZAM,Zambia,,zambia,ZMB,WDI country-name match
+ZIM,Zimbabwe,,zimbabwe,ZWE,WDI country-name match
