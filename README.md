@@ -2,9 +2,30 @@
 ### *Do richer and more populous countries win more medals per person, and do host countries have an advantage?*
 
 > **DATA209 — Advanced Exploratory Data Analysis Hackathon**  
-> Team: `<replace with team name>` · Members: `<replace with names and UEN numbers>`  
-> AI-use statement: `<required — describe which AI tools were used and how>`  
-> Video link: `<replace with submission video URL>`
+> Team: **Outliers**  
+> Members: Udbhav A Kulkarni (2025UG000466) · Ammith R Aradhya (2025UG000411) · Mokshith M (2026UG100001) · Hemanth Kumar (2026UG10003)  
+> AI-use statement: See below ↓  
+> Video link: `<add video URL here once recorded>`
+
+---
+
+### 🤖 AI-Use Statement
+
+This project used two AI coding assistants as productivity tools during development. All analysis logic, statistical choices, and interpretations were reviewed, understood, and validated by every team member.
+
+**Antigravity (Google DeepMind)** was used to:
+- Audit all four Jupyter notebooks for bugs and logical errors
+- Identify and fix a runtime crash in `src/final_analysis.py` caused by an incorrect `pandas` API call (`reset_index(names=...)` → corrected to work with pandas 2.2)
+- Identify and correct non-existent future package versions in `requirements.txt`
+- Enrich notebook markdown cells with pipeline diagrams, cleaning decision rationale, and statistical interpretation text
+- Write the comprehensive README including the pipeline flowchart, results table, and reproduction steps
+
+**OpenAI Codex** was used to:
+- Generate initial stub code for `src/build_analysis.py`, `src/fetch_data.py`, and `src/final_analysis.py`
+- Suggest the team-medal deduplication approach (`drop_duplicates(['Games','NOC','Event','Medal'])`)
+- Prototype the NOC → ISO3 crosswalk and HOSTS dictionary
+
+> **Important:** Every team member has read the full codebase and can explain each line. The AI tools produced first drafts; all outputs were reviewed for correctness before being committed. No AI tool was used to interpret the statistical results or draw conclusions — those were made by the team.
 
 ---
 
